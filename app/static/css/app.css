@@ -1,3 +1,33 @@
 body {
     padding-top: 5rem;
 }
+
+#send-btn {
+    padding: 0.5rem 2rem;
+}
+
+hr {
+    border: 1px solid rgb(61, 61, 61, 0.5);
+}
+
+#contact-form > * > span {
+    color: rgb(211, 0, 0);
+    font-weight: bold;
+} 
+
+#contact-form > * > label {
+    font-weight: bold;
+}
+
+#contact-form > * > input {
+    width: 35%;
+}
+
+#contact-form > * > textarea {
+    width: 50%;
+    min-height: 10rem;
+}
+
+#contact-form > * > p {
+    margin-bottom: 0.5rem;
+}
